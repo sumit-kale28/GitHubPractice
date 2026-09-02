@@ -175,6 +175,5 @@ public class SProgram1 {
         System.out.println("Sub String with Start & End Point: "+Sub1);
         CharSequence Sub2=Name.subSequence(3,10);
         System.out.println("Sub String using CharSequence Data Type: "+Sub2);
-
     }
 }
