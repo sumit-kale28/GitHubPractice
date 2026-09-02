@@ -6,8 +6,7 @@ public class Outside_Class {
         System.out.println("Static Block0");//Block Comment
         System.out.println("git Hub Changes on Remote repository");
     }
-    static
-    {
+    static {
         System.out.println("Static Block1");
     }
     static
