@@ -3,7 +3,8 @@ package OOPS_Concept;
 public class Outside_Class {
     static
     {
-        System.out.println("Static Block0");
+        System.out.println("Static Block0");//Block Comment
+        System.out.println("git Hub Changes on Remote repository");
     }
     static
     {
